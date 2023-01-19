@@ -1,0 +1,6 @@
+# General
+.vagrant/
+.kube/
+joincluster.sh
+
+
